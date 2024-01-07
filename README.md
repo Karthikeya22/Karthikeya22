@@ -1,6 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAbhinav2011&psig=AOvVaw2HTeBU-T8_R1QEdxyLWmN2&ust=1704698070861000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjbwqjdyoMDFQAAAAAdAAAAABAD](https://rishavchanda.io)
-
-
+[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]()
 
 <p align="center"><a href="https://github.com/yashk2000"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p>
 
