@@ -26,7 +26,7 @@
 </div>
 
 <p align="center">
-  <a href="[YOUR_GITHUB]">
+  <a href="https://github.com/Karthikeya22">
     <img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/>
   </a>
 </p>
@@ -60,7 +60,9 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding" width="340" src="[https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966](https://cdna.artstation.com/p/assets/images/images/055/086/844/original/gun-sirichote-night-workflow3-animated3-edit.gif?1666093203)" />
+<img align="right" alt="Coding" width="340" src="https://img.notionusercontent.com/ext/https%3A%2F%2Fcdna.artstation.com%2Fp%2Fassets%2Fimages%2Fimages%2F055%2F086%2F844%2Foriginal%2Fgun-sirichote-night-workflow3-animated3-edit.gif%3F1666093203/size/?exp=1781403380&sig=717w7J3kwhBqf583EvjKfvcbX0ALAYVmtXJoFTlA9Yw&imgBuildSrc=presignImageUrl&id=363b10f9-cc60-8078-873b-d9416bce43e2&table=block&mtd=so"/>
+
+
 
 
 - 🔭 **Currently building:** Multi-agent research assistants powered by **LangGraph** + **Model Context Protocol (MCP)**, plus AI-driven learning platforms
@@ -190,8 +192,13 @@ Production-ready RAG system over 10K+ research papers using hybrid BM25 + dense 
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Karthikeya22&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://ghchart.rshah.org/Karthikeya22" alt="Karthikeya's GitHub Contribution Chart"/>
 </p>
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=Karthikeya22&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+</p>
+
 
 ---
 
